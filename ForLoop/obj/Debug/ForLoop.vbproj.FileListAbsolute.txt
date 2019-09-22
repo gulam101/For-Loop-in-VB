@@ -1,0 +1,11 @@
+C:\Users\Gulam\source\repos\ForLoop\ForLoop\bin\Debug\ForLoop.exe.config
+C:\Users\Gulam\source\repos\ForLoop\ForLoop\bin\Debug\ForLoop.exe
+C:\Users\Gulam\source\repos\ForLoop\ForLoop\bin\Debug\ForLoop.pdb
+C:\Users\Gulam\source\repos\ForLoop\ForLoop\bin\Debug\ForLoop.xml
+C:\Users\Gulam\source\repos\ForLoop\ForLoop\obj\Debug\ForLoop.Form1.resources
+C:\Users\Gulam\source\repos\ForLoop\ForLoop\obj\Debug\ForLoop.Resources.resources
+C:\Users\Gulam\source\repos\ForLoop\ForLoop\obj\Debug\ForLoop.vbproj.GenerateResource.cache
+C:\Users\Gulam\source\repos\ForLoop\ForLoop\obj\Debug\ForLoop.vbproj.CoreCompileInputs.cache
+C:\Users\Gulam\source\repos\ForLoop\ForLoop\obj\Debug\ForLoop.exe
+C:\Users\Gulam\source\repos\ForLoop\ForLoop\obj\Debug\ForLoop.xml
+C:\Users\Gulam\source\repos\ForLoop\ForLoop\obj\Debug\ForLoop.pdb
